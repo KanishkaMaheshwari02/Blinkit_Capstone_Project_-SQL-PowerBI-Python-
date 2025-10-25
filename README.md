@@ -1,4 +1,14 @@
-# Blinkit_Capstone_Project_-SQL-PowerBI-Python-
+# 🛒 Blinkit_Capstone_Project_-SQL-PowerBI-Python-
 
-Blinkit, a leading quick-commerce grocery delivery platform, seeks to optimize its end-to-end business operations by analyzing customer purchasing behavior, delivery performance, inventory management, marketing effectiveness, and customer satisfaction metrics. The goal is to identify growth levers, improve operational efficiency, personalize customer engagement, and build predictive models for delivery time estimation, customer segmentation, and sales forecasting to drive profitable and scalable growth.
+## 📘 Overview
+This project analyzes **Blinkit’s business performance** across marketing, customer feedback, and financial operations.  
+Using a combination of **SQL**, **Python (Jupyter)**, and **Power BI**, this analysis provides key insights into campaign effectiveness, customer satisfaction, and profitability to support strategic business decisions.
 
+---
+
+## 🧰 Tools & Technologies
+- **SQL** – Data extraction, transformation, and loading (ETL)
+- **Python (Jupyter Notebook)** – Data cleaning and preprocessing  
+- **Power BI** – Interactive dashboard and visualization
+- **Pandas**, **Matplotlib**, **Seaborn** – Exploratory Data Analysis (EDA)
+- **DAX** – Custom calculations and KPIs in Power BI
